@@ -24,9 +24,9 @@
 				<key>selection</key>
 				<string>#A8A7E8</string>
 				<key>gutter</key>
-				<string>#EDEDED</string>
+				<string>#DFE0F0</string>
 				<key>gutterForeground</key>
-				<string>#777</string>
+				<string>#646D78</string>
 			</dict>
 		</dict>
 		<dict>
