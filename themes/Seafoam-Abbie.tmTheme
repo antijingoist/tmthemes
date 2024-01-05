@@ -23,6 +23,10 @@
 				<string>#D3D6F9</string>
 				<key>selection</key>
 				<string>#A8A7E8</string>
+				<key>gutter</key>
+				<string>#EDEDED</string>
+				<key>gutterForeground</key>
+				<string>#777</string>
 			</dict>
 		</dict>
 		<dict>
