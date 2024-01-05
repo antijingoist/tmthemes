@@ -23,10 +23,18 @@
 				<string>#D3D6F9</string>
 				<key>selection</key>
 				<string>#A8A7E8</string>
+				<key>selection_border</key>
+				<string>#0009E0</string>
 				<key>gutter</key>
 				<string>#DFE0F0</string>
 				<key>gutterForeground</key>
 				<string>#646D78</string>
+				<key>gutter_foreground_highlight</key>
+				<string>#000</string>
+				<key>scroll_highlight</key>
+				<string>#0066ff</string>
+				<key>scroll_selected_highlight</key>
+				<string>#ffff00</string>
 			</dict>
 		</dict>
 		<dict>
